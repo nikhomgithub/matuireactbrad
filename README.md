@@ -77,7 +77,7 @@ $sudo npx create-react-app .
 $cd ..
 $sudo chmod -R 777 matuireact
 ทำการติดตั้ง material ui ใน react 
-$sudo material-ui
+$sudo npm i material-ui
 
 หลังจากนั้นทดลอง รัน react server
 $sudo npm start
